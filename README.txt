@@ -1,4 +1,4 @@
-#Overview of Files:
+# Overview of Files:
 README.txt - a file which should be read before running the program
 game.py - is the ***main*** file which the game is run. Initializes each screen to allow for easy transitioning between screen states.
 startMenu.py - contains the class for the initial start screen
