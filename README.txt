@@ -1,6 +1,4 @@
-Written by CDT Daniel Song.
-
-Overview of Files:
+#Overview of Files:
 README.txt - a file which should be read before running the program
 game.py - is the ***main*** file which the game is run. Initializes each screen to allow for easy transitioning between screen states.
 startMenu.py - contains the class for the initial start screen
@@ -24,6 +22,7 @@ It was difficult to constantly work around the limitations in the download and p
 
 How to run:
 Open the game.py file and run it to play the Spotify quiz game.
+Insert your personal Spotify ID and secret key in the "this.CLIENT_ID" and "this.CLIENT_SECRET" fields in spotify.py
 
 
 Required Packages:
@@ -42,7 +41,7 @@ The Spotify playlist must be public.
 
 
 Created Files:
-The int.jpg and int.mp3 files are already included in the zip file, so no further files will be created. These two files will be continuously overwritten for each subsequent question.
+The int.jpg and int.mp3 files will be continuously overwritten for each subsequent question.
 
 
 Citations:
